@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
-**USBskycrafts/USBskycrafts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, the visitor! (你好，旅行者！（?）)
 
-Here are some ideas to get you started:
+I am a new grad student from Northwestern University and I'm intersted in Operating System and Compiler!
 
-- 🔭 I’m currently working on Compiler
-- 💬 Looking for 2023 summuer instern!
--->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USBskycrafts)](https://github.com/anuraghazra/github-readme-stats)
+
 [![my github data](https://github-readme-stats.vercel.app/api?username=USBskycrafts)]()
