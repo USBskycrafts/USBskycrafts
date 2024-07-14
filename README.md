@@ -2,11 +2,6 @@
 
 # Hello, the visitor! (你好，旅行者！（?）)
 
-# About me
-I am a new grad student from Northwestern University and I'm intersted in Operating System and Compiler!
-
-我是西北大学的应届研究生，感兴趣的方向是编译器和操作系统，正在努力学习file system
-
 # [My blog](https://usbskycrafts.github.io)
 
 
