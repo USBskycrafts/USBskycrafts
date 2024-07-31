@@ -2,9 +2,6 @@
 
 # Hello, the visitor! (你好，旅行者！（?）)
 
-# [My blog](https://usbskycrafts.github.io)
-
-
 
 # The Desktop Enviroment I use in Linux
 I like windows manager very much in Linux, and recently I use Hyprland for its fluent animate.
