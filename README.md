@@ -18,14 +18,9 @@ I like Thinkpad very much, although I'm using macbook right now.
 我非常喜欢Thinkpad(不会真有人没拿小红点打过游戏吧？)
 
 
-# My hobby
-因为身边只有笔记本，因此已经快一年没有玩过war thunder了，听说收益增强了？（bvvd的___暂时回到了近地轨道）
 
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USBskycrafts)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![my github data](https://github-readme-stats.vercel.app/api?username=USBskycrafts)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USBskycrafts)](https://github.com/anuraghazra/github-readme-stats) 
+
+
